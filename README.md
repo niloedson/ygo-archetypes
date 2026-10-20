@@ -25,11 +25,14 @@ Contributing to `ygo-archetypes` requires zero programming experience:
 1. **Copy the Template:** Copy [`templates/_archetype_template.md`](templates/_archetype_template.md) to `archetypes/<archetype_name>/<archetype_name>.md`.
 2. **Document the Core:** Fill in the 15-card engine core, secondary engine synergies, and chokepoints.
 3. **Capture the Combo:**
-   - Play your combo naturally on **Dueling Book** or **Omega**.
-   - Copy the raw duel log into the free [Haunted Labs Match Notary](https://niloedson.github.io/tools/notary.html).
+   - Play your combo naturally on **Dueling Book**.
+   - Copy the raw duel log (`duel_log.txt`) into the free [Haunted Labs Match Notary](https://niloedson.github.io/tools/notary.html).
    - Click **"⚡ Transcribe to RFC 0001 YGN"**.
    - Click **"📄 Copy Markdown for ygo-archetypes PR"** and paste it into Section 4!
 4. **Submit a Pull Request:** Automated GitHub Actions run `npm run validate` to verify that your YGN syntax and card passcodes resolve cleanly.
+
+### Prefer Not to Use Git? Submit via the Community Dispatch Form
+Don't want to open a GitHub Pull Request? You can submit your playlines, combo notes, or ruling analyses directly to Nilo Edson via the **[Haunted Labs Community Dispatch Form](https://niloedson.github.io/community.html)**! We will review the theory, verify the line in `ygo-sim-core`, and commit it to this repository with full attribution to your handle.
 
 ---
 
