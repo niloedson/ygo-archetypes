@@ -1,0 +1,25 @@
+{
+  "name": "@haunted-labs/ygo-archetypes",
+  "version": "1.0.0",
+  "description": "Open community repository of competitive Yu-Gi-Oh! archetype profiles, RFC 0001 (YGN/YBN) playlines, and Activation Context Gates.",
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate_archetypes.mjs",
+    "test": "npm run validate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niloedson/ygo-archetypes.git"
+  },
+  "keywords": [
+    "yugioh",
+    "ygn",
+    "ybn",
+    "rfc-0001",
+    "archetypes",
+    "tcg",
+    "combos"
+  ],
+  "author": "Nilo Edson <niloedson.ms@gmail.com> (Haunted Labs)",
+  "license": "CC-BY-4.0"
+}
