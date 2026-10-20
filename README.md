@@ -31,8 +31,8 @@ Contributing to `ygo-archetypes` requires zero programming experience:
    - Click **"📄 Copy Markdown for ygo-archetypes PR"** and paste it into Section 4!
 4. **Submit a Pull Request:** Automated GitHub Actions run `npm run validate` to verify that your YGN syntax and card passcodes resolve cleanly.
 
-### Prefer Not to Use Git? Submit via the Community Dispatch Form
-Don't want to open a GitHub Pull Request? You can submit your playlines, combo notes, or ruling analyses directly to Nilo Edson via the **[Haunted Labs Community Dispatch Form](https://niloedson.github.io/community.html)**! We will review the theory, verify the line in `ygo-sim-core`, and commit it to this repository with full attribution to your handle.
+### Prefer Not to Use Git? Submit via the Archetype Theory Form
+Don't want to open a GitHub Pull Request? You can submit your playlines, combo notes, or ruling analyses directly to Nilo Edson via the **[Submit Archetype Theory Form](https://niloedson.github.io/tools/submit-archetype-theory.html)**! We will review the theory, verify the line in `ygo-sim-core`, and commit it to this repository with full attribution to your handle.
 
 ---
 
